@@ -2,7 +2,7 @@
 
 👀 I’m interested in data and information in the public domain
 
-🌱 I’m currently learning the basics
+🌱 I’m currently exploring
 
 <!---
 lewdry/lewdry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
