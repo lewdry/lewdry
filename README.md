@@ -1,6 +1,6 @@
 👋 Hi, I’m @lewdry
 
-👀 I’m interested in data and information in the public domain
+👀 I’m interested in web apps and data
 
 🌱 I’m exploring
 
