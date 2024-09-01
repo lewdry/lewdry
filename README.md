@@ -1,8 +1,8 @@
-👋 Hi, I’m @lewdry
+Hi, I’m @lewdry
 
-👀 I’m interested in web apps and data
+I’m interested in web apps and data
 
-🌱 I’m exploring
+I’m investigating
 
 <!---
 lewdry/lewdry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
