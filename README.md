@@ -1,1 +1,3 @@
-Hi, I’m **@lewdry**, I’m interested in wood, web apps and data.
+Hi, I’m **Lewis**, I’m an undercover librarian interested in wood, web apps and data.
+
+Whittling away on Dharawal land in NSW. 
