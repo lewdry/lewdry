@@ -1,4 +1,4 @@
-Hi, I’m **Lewis**, I’m an undercover librarian interested in wood, web apps and data.
+Hi, I’m **Lewis**, an undercover librarian interested in wood, web apps and data.
 
 Passionate about open source data, odd nostalgia and simple colour schemes.
 
