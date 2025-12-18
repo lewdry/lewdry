@@ -1,4 +1,4 @@
-Hi, I’m **Lewis**, an undercover librarian interested in crafting wood and web apps. I'm a passionate about open data, open source and cultivating the public domain.
+Hi, I’m **Lewis**, an undercover librarian interested in woodworking and web apps. I'm a passionate about open data, open source and cultivating the public domain.
 
 I am currently whittling away on Dharawal land in NSW. 🌲 🌳 🪵 
 
