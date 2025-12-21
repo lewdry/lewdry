@@ -19,23 +19,21 @@ I am currently whittling away on Dharawal land in NSW. 🌲 🌳 🪵
 
 ## 📌 Featured Projects
 
-### [Artflip](https://lewisdryburgh.com/2025-10-13-artflip)  
+### [Artflip](https://artflip.me)  
 A small web project exploring the world's best art collections. Built with Svelte.  
 
-### [Big Pause](https://lewisdryburgh.com/2025-12-21-bigpause)  
+### [Big Pause](https://bigpause.app)  
 A lightweight tool to help create small mindful moments throughout the day, no notifications, no streaks, just pause.  
 
-### [What We Know About You](https://lewisdryburgh.com/projects/what-we-know-about-you)  
-An exploration of personal data and transparency, built for web and civic tech audiences.  
+### [What We Know About You](https://whatweknow.pages.dev)  
+A snapshot of the data your browser shares about you.
 
-*(Additional projects pinned on this profile — see repos for full code & demos)*
+*(Additional projects pinned on this profile, see repos for full code & demos)*
 
 ---
 
 ## 📈 Contributions & Activity
 
 I like to keep small experiments and project maintenance going regularly, you’ll see updates across repos and documentation.  
-
----
 
 [![GitHub Streak](https://github-readme-streak-stats-eight-livid.vercel.app?user=lewdry&theme=dawnfox&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=850)](https://git.io/streak-stats)
