@@ -1,4 +1,4 @@
-Hi, I’m **Lewis**, an undercover librarian interested in woodworking and web apps. I'm a passionate about open data, open source and cultivating the public domain.
+Hi, I’m **Lewis**, an undercover librarian interested in woodworking and the web. I'm a passionate about open data and cultivating the public domain.
 
 I build small tools, data projects and web experiments that sit at the intersection of **tech, data and thoughtful design**. Sometimes reflective, sometimes playful, always intentional.
 
