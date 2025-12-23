@@ -1,4 +1,4 @@
-Hi, I’m **Lewis**, I'm a passionate about open data and the public domain. I am currently whittling away on Dharawal land in NSW. 🌲 🌳 🪵 
+Hi, I’m **Lewis**, I'm passionate about open data and the public domain. I am whittling away on Dharawal land in NSW. 🌲 🌳 🪵 
 
 ## Skills & Tech
 
