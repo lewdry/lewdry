@@ -1,6 +1,6 @@
 Hi, I’m **Lewis**, I'm passionate about open data and the public domain. I am whittling away on Dharawal land in NSW. 🌲 🌳 🪵 
 
-If I'm not woodworking, I'm probably doing something with:
+If I'm not woodworking or juggling children, I'm probably doing something with:
 
 - **Web**: Svelte, JavaScript, TailwindCSS
 - **Data**: Python, Pandas, D3.js/Chart.js
