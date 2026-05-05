@@ -2,7 +2,7 @@
 
 I’m a data optimist and technologist dedicated to open data and the public domain. 
 
-I build 'small-tech': fun, privacy-first web apps that put humans (and their data) first.
+I build 'small-tech': fun, lightweight, privacy-first web apps.
 
 ### What I’m building
 *   **[Artflip](https://artflip.me):** Curated public domain art from the world's best museums.
