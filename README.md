@@ -6,8 +6,8 @@ I build 'small-tech': fun, privacy-first web apps that put humans (and their dat
 
 ### What I’m building
 *   **[Artflip](https://artflip.me):** Curated public domain art from the world's best museums.
-*   **[Big Pause](https://homehomehome.org):** A mindfulness app for calm 30-second resets.
-*   **[Homehomehome](https://bigpause.app):** 1988’s hottest web portal.
+*   **[Big Pause](https://bigpause.app):** A mindfulness app for calm 30-second resets.
+*   **[Homehomehome](https://homehomehome.org):** 1988’s hottest web portal.
    
 ### What I work with
 If I'm not woodworking or juggling children, I'm probably doing something with:
