@@ -8,4 +8,4 @@ If I'm not woodworking or juggling children, I'm probably doing something with:
 * Tailwind CSS / DaisyUI
 * Python, Pandas & SQL
 
-You can see [highlights of what I've been working on here](https://lewisdryburgh.com/projects).
+You can see [highlights of things I've built on my personal website](https://lewisdryburgh.com/projects).
