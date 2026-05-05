@@ -1,4 +1,4 @@
-## Hi, I’m Lewis
+### Hi, I’m Lewis
 
 I’m a data optimist and technologist dedicated to open data and the public domain. 
 
