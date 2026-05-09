@@ -2,7 +2,7 @@
 
 I’m a data optimist and technologist dedicated to open data and the public domain. 
 
-I build 'small-tech', privacy-first web apps for fun, wellbeing and productivity.
+I build privacy-first web apps for fun, wellbeing and productivity.
 
 If I'm not woodworking or juggling children, I'm probably doing something with:
 
