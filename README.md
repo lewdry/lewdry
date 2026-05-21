@@ -1,4 +1,4 @@
-## Hello, I'm Lewis Dryburgh
+# Hello, I'm Lewis Dryburgh
 
 ## Undercover Librarian & Web Developer
 
@@ -8,7 +8,7 @@ My practice focuses on open data, the public domain and information stewardship.
 
 If I'm not woodworking or juggling children, I'm probably doing something with:
 
-## Technical Focus & Stack
+## Technical Stack
 
 *   **Frontend:** Svelte, JavaScript, DaisyUI.
 *   **Data:** Python, Pandas & SQL.
