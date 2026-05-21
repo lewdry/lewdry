@@ -1,6 +1,6 @@
-# Hello, I'm Lewis Dryburgh
+## Hello, I'm Lewis Dryburgh
 
-## Undercover Librarian & Web Developer
+### Undercover Librarian & Web Developer
 
 I’m a data optimist, researcher and technologist based in Sydney NSW. 
 
@@ -8,12 +8,12 @@ My practice focuses on open data, the public domain and information stewardship.
 
 If I'm not woodworking or juggling children, I'm probably doing something with:
 
-## Technical Stack
+### Technical Stack
 
 *   **Frontend:** Svelte, JavaScript, DaisyUI.
 *   **Data:** Python, Pandas & SQL.
 
-## Connect With Me
+### Connect With Me
 
 You can see more highlights on my **[personal website](https://lewisdryburgh.com)**.
 You can connect professionally on **[Linkedin](https://linkedin.com/in/lewis-dryburgh)**
