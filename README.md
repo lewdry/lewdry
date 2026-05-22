@@ -14,7 +14,7 @@ If I'm not woodworking or juggling children, I'm probably doing something with:
 *   Data layer: Python, Pandas, SQL
 *   Automation: Github Actions, Cloudflare Workers
 
-### Connect With Me
+### Connect
 
 You can check out some of my projects on my **[personal website](https://lewisdryburgh.com)**.
 
