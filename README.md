@@ -22,4 +22,4 @@ Or engage with me as a valued stakeholder on **[Linkedin](https://linkedin.com/i
 
 <img width="600" height="338" alt="lewcv" src="https://github.com/user-attachments/assets/64d80614-f8b3-4176-bf15-00060b654898" />
 
-*(Hey that's no fridge!)*
+*(Hey that's no refrigerator!)*
