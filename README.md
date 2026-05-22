@@ -10,12 +10,13 @@ If I'm not woodworking or juggling children, I'm probably doing something with:
 
 ### Toolkit
 
-*   **Frontend:** Svelte, JavaScript, DaisyUI.
-*   **Data:** Python, SQL.
+*   **Frontend:** Svelte & Sveltekit, JavaScript, DaisyUI
+*   **Data:** Python, Pandas, SQL
+*   **Hands free:** Github Actions, Cloudflare Workers
 
 ### Connect With Me
 
 You can see more highlights on my **[personal website](https://lewisdryburgh.com)**.
-You can connect professionally on **[Linkedin](https://linkedin.com/in/lewis-dryburgh)**
+Or connect on **[ye olde Linkedin](https://linkedin.com/in/lewis-dryburgh)**
 
 <img width="600" height="338" alt="lewcv" src="https://github.com/user-attachments/assets/64d80614-f8b3-4176-bf15-00060b654898" />
