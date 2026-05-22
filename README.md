@@ -10,7 +10,7 @@ If I'm not woodworking or juggling children, I'm probably doing something with:
 
 ### Toolkit
 
-*   Frontend: Svelte & Sveltekit, JavaScript, DaisyUI
+*   Frontend: Svelte / Sveltekit, JavaScript, DaisyUI
 *   Data layer: Python, Pandas, SQL
 *   Automation: Github Actions, Cloudflare Workers
 
