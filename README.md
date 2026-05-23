@@ -1,6 +1,6 @@
 ## Hello, I'm Lewis Dryburgh
 
-### Undercover Librarian & Developer
+#### Undercover Librarian
 
 I’m a data optimist, researcher and technologist based in Sydney NSW. 
 
