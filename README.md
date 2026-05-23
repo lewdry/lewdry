@@ -4,7 +4,7 @@
 
 I’m a data optimist, researcher and technologist based in Sydney NSW. 
 
-I'm into open data, the public domain and information stewardship. I make privacy-first web apps for fun, wellbeing and productivity. If I'm not woodworking or juggling children, I'm probably doing something with:
+I'm into open data, the public domain and information stewardship. I make web apps for fun, wellbeing and productivity. If I'm not woodworking or juggling children, I'm probably doing something with:
 
 #### Toolkit
 
