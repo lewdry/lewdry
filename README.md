@@ -6,6 +6,11 @@ I’m a data optimist, researcher and technologist based in Sydney NSW.
 
 I'm into open data and the public domain. I make web apps for fun, wellbeing and productivity.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 #### Connect
 You can find me and some of my projects on the hit website [lewisdryburgh.com](https://lewisdryburgh.com).
 
