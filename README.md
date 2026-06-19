@@ -14,6 +14,4 @@ You can find me and some of my projects on the hit website [lewisdryburgh.com](h
 [![X/Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/lewdryburgh)
 [![Bluesky](https://img.shields.io/badge/Bluesky-3B82F6?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/dryburgh.bsky.social)
 
-<img width="600" height="338" alt="lewcv" src="https://github.com/user-attachments/assets/64d80614-f8b3-4176-bf15-00060b654898" />
-
 *(Hey that's no refrigerator!)*
