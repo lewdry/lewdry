@@ -2,7 +2,7 @@
 
 #### Undercover Librarian
 
-I’m a data optimist, researcher and technologist based in Sydney NSW. I'm into open source and the public domain. I make web apps for fun, wellbeing and productivity. Usually with: 
+I’m a data optimist, researcher and technologist. I'm into open source and the public domain. I make web apps for fun, wellbeing and productivity. Usually with: 
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
